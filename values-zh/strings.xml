@@ -460,7 +460,7 @@
     <string name="is_wearos_device_info">WearOS 手表可以直接参见“帮助中心”的“打开 WLAN 调试”部分来快速连接手机。\n此类手表是 WearOS 工具箱官方适配的手表。\n\n是华为 Watch 系列手表，且已更新到 HarmonyOS 系统的，请打开专属模式，以获得无缝体验。如 Watch 3。\n较旧的蓝牙版手表，可以通过参阅“帮助中心”的 连接-蓝牙版 一节来建立连接，需要电脑连接绑定的手机，或通过 Root 权限激活。\nAndroid TV 等其他设备虽然可以直接调试，但 WearOS 工具箱仅兼容此设备，可能出现的问题，我们不会及时修复。</string>
     <string name="click_here_check_update">点击此处检查更新</string>
     <string name="please_choose_your_devices">请先选择您的设备类型</string>
-    <string name="wechat_donate">由于微信限制，暂不支持通过通过微信扫一扫选择二维码的方式捐赠，请先关注 WearOS 工具箱 公众号，然后在公众号的菜单栏内点击“微信捐赠”，长按扫描回复的二维码付款即可。接下来将保存“WearOS 工具箱”微信公众号二维码，点击“确认”继续。</string>
+    <string name="wechat_donate">由于微信限制，暂不支持通过通过微信扫一扫选择二维码的方式捐赠，请先关注 WearOS 工具箱 公众号，然后在公众号的菜单栏内点击“微信捐赠”，长按扫描回复的二维码付款即可。接下来将保存“WearOS 工具箱”微信公众号二维码，点击“确定”继续。</string>
     <string name="permission_apk_install">设备拒绝通过 ADB 安装应用。\n\n若您是华为手表 3，请确认打开了华为手表专属模式。\n若您是其他手表，可能在设置中更换 APK 安装模式会可用。\n如果还是无效，请找其他方法来安装 APK 并联系我们处理！</string>
     <string name="adb_got_killed" >ADB 服务被手机系统阻止运行。\n这可能是因为手机系统深度定制了杀后台措施。\n请在设置中打开 ADB 服务保活功能。\n常见于 Flyme 系统。</string>
     <string name="adb_auth">设备有 ADB 密码。请手动在 工具-命令行 中输入 &quot;adb auth &lt;ADB 密码&gt;&quot; 来授权本次连接。</string>
