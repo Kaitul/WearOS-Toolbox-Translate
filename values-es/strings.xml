@@ -160,7 +160,7 @@
     <string name="download_file">下載</string>
     <string name="q_a">說明中心</string>
     <string name="first_time_message">哈囉，您看起來是第一次使用 WearOS 工具箱，我們建議您先閱讀「說明中心」，請一定小心作業！</string>
-    <string name="request_permission">為了讓功能可以正常運作，我們需要向您要求以下權限：\n\n1. 儲存空間存取權:\n    「安裝 APK」功能中的「選取 APK 檔案」和「檔案管理員」中的「上傳/下載檔案」需要存取您的儲存空間目錄</string>
+    <string name="request_permission">為了讓功能可以正常運作，我們需要向您要求以下權限：\n   儲存空間存取權：\n   「安裝 APK」功能中的「選取 APK 檔案」和「檔案管理員」中的「上傳/下載檔案」需要存取您的儲存空間目錄</string>
     <string name="accept">接受</string>
     <string name="negative">取消</string>
     <string name="clean_data_successfully">清除資料成功</string>
