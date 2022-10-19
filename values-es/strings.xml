@@ -54,7 +54,7 @@
     <string name="screen_info">螢幕資訊</string>
     <string name="connect_condition">裝置狀態：</string>
     <string name="normal">正常</string>
-    <string name="unauthorized">" \n 請檢查手錶螢幕，並驗證連線"</string>
+    <string name="unauthorized">\n請檢查手錶螢幕，並驗證連線</string>
     <string name="unconnected">已中斷連線</string>
     <string name="original_resolution">預設解析度：</string>
     <string name="original_dpi">預設 DPI：</string>
