@@ -363,7 +363,7 @@
     <string name="remember_address_switch_on">WearOS 工具箱將會儲存上次連線的 IP 位址</string>
     <string name="remember_address_switch_off">WearOS 工具箱將不會儲存上次連線的 IP 位址</string>
     <string name="use_special_install_method">使用特殊安裝方式</string>
-    <string name="use_special_install_method_on">使用 pm 安裝方式，華為模式開啟時請停用此選項</string>
+    <string name="use_special_install_method_on">使用 pm 安裝方式，華為 Watch 3 側載修正開啟時請停用此選項</string>
     <string name="use_special_install_method_off">使用標準 ADB 安裝方式</string>
     <string name="applyAutoRotate">自動旋轉管理員</string>
     <string name="screen_rotate">螢幕旋轉</string>
@@ -466,12 +466,12 @@
     <string name="settings_finished">大功告成！</string>
     <string name="not_sure">其他裝置</string>
     <string name="device_new_intro">裝置</string>
-    <string name="is_wearos_device_info">WearOS 裝置可以使用「無線偵錯」選項直接連線至您的手機\n\n華為 Watch 3 使用者需要啟用華為模式以取得最佳體驗\n藍牙 ADB 教學課程可在「說明中心」中取得</string>
+    <string name="is_wearos_device_info">WearOS 裝置可以使用「無線偵錯」選項直接連線至您的手機\n\n華為 Watch 3 使用者需要啟用華為 Watch 3 側載修正以取得最佳體驗\n藍牙 ADB 教學課程可在「說明中心」中取得</string>
     <string name="click_here_check_update">按一下這裡以檢查更新</string>
     <string name="options">嚮導</string>
     <string name="please_choose_your_devices">請先選擇您的裝置類型</string>
     <string name="wechat_donate">由於 WeChat 限制，目前不支援透過掃描 QR Code 捐贈，請先關注 WearOS 工具箱官方帳號，然後按下選單列的「微信捐贈」，長按掃描回覆的 QR Code 付款即可。接下來將儲存 WearOS 工具箱的 WeChat 官方帳號 QR Code，按一下「確定」以繼續。</string>
-    <string name="permission_apk_install">裝置拒絕了您的作業。\n\n華為 Watch 3 需要啟用華為模式。\n其他裝置請在設定中變更 APK 安裝模式。</string>
+    <string name="permission_apk_install">裝置拒絕了您的作業。\n\n華為 Watch 3 需要啟用華為 Watch 3 側載修正。\n其他裝置請在設定中變更 APK 安裝模式。</string>
     <string name="adb_got_killed" >ADB 服務已被您的系統終止，\n可能您的手機廠商修改了低記憶體終止器。\n請在設定中啟用 ADB 常駐程式並重試。</string>
     <string name="adb_auth">裝置有 ADB 密碼，請在「功能 - 終端機」中手動輸入 &quot;adb auth &lt;ADB 密碼&gt;&quot; 驗證此次連線</string>
     <string name="global_variable_editor">全域變數編輯器</string>
